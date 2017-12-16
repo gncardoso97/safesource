@@ -1,0 +1,45 @@
+/*!
+ * Mastertech - Round About
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+
+/* Inicio do meu CSS */
+
+#TQVPS {
+
+	background-color: #708090;
+	color: white;
+	padding: 90px;
+	font-size: 70px;
+}
+
+#titulo {
+
+	font-size: 30px;
+	font-family: 'Anton', sans-serif;
+}
+
+#txtt{
+	font-size: 50px;
+}
+
+
+
+
+
+/* Fim do meu CSS */
